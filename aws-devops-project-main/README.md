@@ -345,10 +345,6 @@ The current implementation is functional and verified. The following improvement
 
 ### Application and CI/CD
 
-- [aws-devops-project](https://github.com/ashokcsdev/aws-devops-project)
-
 ### Infrastructure as Code
-
-- [aws-devops-terraform-ec2](https://github.com/ashokcsdev/aws-devops-terraform-ec2)
 
 ![AWS DevOps Architecture](docs/architecture-diagram.png)
