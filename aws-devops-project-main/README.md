@@ -341,10 +341,5 @@ The current implementation is functional and verified. The following improvement
 - Evaluate a GitOps deployment model using Argo CD or Flux instead of direct Jenkins-to-cluster deployment.
 - Introduce separate staging and production environments.
 - Demonstrate Kubernetes autoscaling using a Horizontal Pod Autoscaler (HPA).
-## Repository Links
-
-### Application and CI/CD
-
-### Infrastructure as Code
 
 ![AWS DevOps Architecture](docs/architecture-diagram.png)
